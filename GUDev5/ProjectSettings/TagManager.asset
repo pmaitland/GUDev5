@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Trapdoor
+  - BigSlime
+  - TinySlime
+  - Danger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BigSlime
+  - TinySlimes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2285818997
+    locked: 0
+  - name: Obstacles
+    uniqueID: 340753059
+    locked: 0
+  - name: Platforms
+    uniqueID: 3821546069
+    locked: 0
+  - name: Players
+    uniqueID: 131825155
+    locked: 0
